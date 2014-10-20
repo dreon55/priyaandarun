@@ -1,4 +1,3 @@
-laskdfl;skajfl;kasjf;laskjflaksjf
 #alias arun="setenv PROJECT arun; cd ~/git/priyaandarun; git init;"
 #git remote add priyaandarun https://github.com/dreon55/priyaandarun.git
 #git commit -m "First commit"

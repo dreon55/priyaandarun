@@ -1,0 +1,56 @@
+/*
+    Cascaded Style Sheet
+    Created by:     K. Andre Persaud
+    Date:           Oct. 20, 2014
+    Last Edit:      Oct. 20, 2014
+    Description:    CSS for Wedding website
+                    Minimum Resolution is 760px width
+                    Maximum Resolution is 1200 px width
+
+*/
+
+
+html {
+    /*overflow-x:   noscroll;*/
+    overflow-x: auto;
+    min-width: 740px;
+}
+
+body {
+    height: 100%;
+    width: 100%;
+    background-color: black;
+    color: black;
+    margin: 0;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    padding: 0;
+    position: fixed;
+    /*background-image: url('../images/bg/bg.jpg');
+    background-repeatL repeat; */
+}
+
+/*
+    Center content on page, set content site and default
+    fonts
+*/
+.sitewrapper {
+    width:  90%;
+    height: 70%;
+    min-width: 760px;
+    max-width: 1200px;
+    color: black;
+    font: 76% Verdana, Arial, Helvetica, sans-serif;
+    margin: auto;
+    margin-top: 30px;
+    padding: 1%;
+    padding-top: 100px;
+    padding-bottom: 0px;
+    text-align: left;
+    background-color: blue;
+    border-color: black;
+    border-width: 10px;
+    border-style: solid;
+    border-right: none'
+    overflow-y: scroll;
+}
